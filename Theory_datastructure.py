@@ -2,7 +2,7 @@ Data Structures are a way of organizing data so that it can be accessed more eff
 Data Structures are fundamentals of any programming language around which a program is built. 
 
 https://www.geeksforgeeks.org/python-data-structures/
-
+https://www.geeksforgeeks.org/python-add-the-element-in-the-list-with-help-of-indexing/
 
 Ordered Collection is the one in which the position of each element is fixed. 
 Example: List, strings, Tuples. 
