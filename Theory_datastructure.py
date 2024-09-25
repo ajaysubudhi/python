@@ -3,6 +3,13 @@ Data Structures are fundamentals of any programming language around which a prog
 
 https://www.geeksforgeeks.org/python-data-structures/
 
+
+Ordered Collection is the one in which the position of each element is fixed. 
+Example: List, strings, Tuples. 
+
+Unordered Collection is the one in which position of each element is not fixed 
+i.e., the order of all the elements are not maintained. Example: Sets, Dictionaries.
+
 Built-in Data Structures:
     Lists: Versatile, ordered collections that can store elements of different types.
     Tuples: Immutable ordered collections, often used to represent records.
