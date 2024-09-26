@@ -3,6 +3,7 @@ Data Structures are fundamentals of any programming language around which a prog
 
 https://www.geeksforgeeks.org/python-data-structures/
 https://www.geeksforgeeks.org/python-add-the-element-in-the-list-with-help-of-indexing/
+https://www.geeksforgeeks.org/python-for-loops/
 
 Ordered Collection is the one in which the position of each element is fixed. 
 Example: List, strings, Tuples. 
