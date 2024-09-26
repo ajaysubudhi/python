@@ -1,4 +1,4 @@
-Given two string arrays words1 and words2, return the number of strings that appear exactly once in each of the two arrays.
+'''Given two string arrays words1 and words2, return the number of strings that appear exactly once in each of the two arrays.
 Example 1:
 
 Input: words1 = ["leetcode","is","amazing","as","is"], words2 = ["amazing","leetcode","is"]
@@ -19,7 +19,7 @@ Example 3:
 Input: words1 = ["a","ab"], words2 = ["a","a","a","ab"]
 Output: 1
 Explanation: The only string that appears exactly once in each of the two arrays is "ab".
-
+'''
 ===========================================
 class Solution:
     def countWords(self, words1: List[str], words2: List[str]) -> int:
